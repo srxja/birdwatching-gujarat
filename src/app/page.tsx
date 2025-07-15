@@ -32,7 +32,7 @@ export default function HomePage() {
             Gujarat: Where the Sky Comes Alive
           </h1>
           <p className="mt-4 text-lg md:text-xl drop-shadow-md animate-fade-in-up">
-            Discover hundreds of species in one of India's most vibrant ecosystems.
+            Discover hundreds of species in one of India&apos;s most vibrant ecosystems.
           </p>
         </div>
       </section>
@@ -48,7 +48,7 @@ export default function HomePage() {
               Your Adventure Awaits
             </h2>
             <p className="text-lg text-gray-200 leading-relaxed">
-              Imagine a land where the dawn chorus is a symphony of a thousand birds. Picture vast wetlands painted pink with flamingos and grasslands echoing with the calls of rare bustards. This isn't a dream—it's Gujarat. This website is your field guide and your companion on a quest to uncover the winged wonders of this incredible state.
+              Imagine a land where the dawn chorus is a symphony of a thousand birds. Picture vast wetlands painted pink with flamingos and grasslands echoing with the calls of rare bustards. This is not a dream—it is Gujarat. This website is your field guide and your companion on a quest to uncover the winged wonders of this incredible state.
             </p>
           </div>
           
@@ -57,7 +57,7 @@ export default function HomePage() {
               What is Bird Watching?
             </h2>
             <p className="text-lg text-gray-200 leading-relaxed">
-              Birding is more than just a hobby; it's a thrilling pursuit of discovery. It's the challenge of identifying a fleeting silhouette against the sky, the joy of hearing a rare song, and the deep connection you feel to the natural world. Armed with simple gear and a spark of curiosity, you are about to step into a world of breathtaking beauty and endless fascination.
+              Birding is more than just a hobby; it is a thrilling pursuit of discovery. It is the challenge of identifying a fleeting silhouette against the sky, the joy of hearing a rare song, and the deep connection you feel to the natural world. Armed with simple gear and a spark of curiosity, you are about to step into a world of breathtaking beauty and endless fascination.
             </p>
           </div>
 

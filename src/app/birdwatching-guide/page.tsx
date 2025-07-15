@@ -67,7 +67,7 @@ export default function GuidePage() {
                 </div>
                 {/* The Title */}
                 <div>
-                  <h2 className="text-3xl font-bold text-gray-800">3. The Birder's Code</h2>
+                  <h2 className="text-3xl font-bold text-gray-800">3. The Birder&apos;s Code</h2>
                   <p className="text-lg text-gray-600">Respect nature and other observers to ensure birding is enjoyable for everyone.</p>
                 </div>
               </div>
@@ -86,7 +86,7 @@ export default function GuidePage() {
                 </div>
                 {/* DON'Ts */}
                 <div>
-                  <h3 className="text-xl font-bold text-red-600 mb-2">Don't...</h3>
+                  <h3 className="text-xl font-bold text-red-600 mb-2">Do not...</h3>
                   <ul className="space-y-2 text-gray-700">
                     <li className="flex items-start"><span className="text-red-500 mr-2">✗</span> Use excessive sound (like playback) to attract birds.</li>
                     <li className="flex items-start"><span className="text-red-500 mr-2">✗</span> Trespass on private property.</li>
