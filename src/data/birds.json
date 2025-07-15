@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "name": "Black-hooded Oriole",
+      "scientificName": "Oriolus xanthornus",
+      "image": "/birds/black-hooded-oriole.jpg",
+      "info": "A striking bird with a bright yellow body and a contrasting black head. Often found in open woodlands and gardens."
+    },
+    {
+      "id": 2,
+      "name": "Blue-capped Rock Thrush",
+      "scientificName": "Monticola cinclorhyncha",
+      "image": "/birds/blue-capped-rock-thrush.jpg",
+      "info": "A migratory bird where the male has a brilliant blue cap and orange-rufous underparts. Winters in southern India."
+    },
+    {
+      "id": 3,
+      "name": "Brown-breasted Flycatcher",
+      "scientificName": "Muscicapa muttui",
+      "image": "/birds/brown-breasted-flycatcher.jpg",
+      "info": "A small, drab flycatcher that can be difficult to identify. It prefers dense, shady forests and preys on insects in flight."
+    },
+    {
+      "id": 4,
+      "name": "Collared Pratincole",
+      "scientificName": "Glareola pratincola",
+      "image": "/birds/collared-pratincole.jpg",
+      "info": "A unique wader with long pointed wings and a forked tail, making it look tern-like. Found in open country near water."
+    },
+    {
+      "id": 5,
+      "name": "Common Chiffchaff",
+      "scientificName": "Phylloscopus collybita",
+      "image": "/birds/common-chiffchaff.jpg",
+      "info": "A small, active leaf warbler named for its repetitive 'chiff-chaff' song. A common winter visitor to Gujarat."
+    },
+    {
+      "id": 6,
+      "name": "Common Kestrel",
+      "scientificName": "Falco tinnunculus",
+      "image": "/birds/common-kestrel.jpg",
+      "info": "A small falcon known for its characteristic hovering flight while hunting for prey like insects and small rodents."
+    },
+    {
+      "id": 7,
+      "name": "Common Moorhen",
+      "scientificName": "Gallinula chloropus",
+      "image": "/birds/common-moorhen.jpg",
+      "info": "A distinctive waterbird with a black body and red frontal shield. Flicks its white undertail as it swims."
+    },
+    {
+      "id": 8,
+      "name": "Crested Lark",
+      "scientificName": "Galerida cristata",
+      "image": "/birds/crested-lark.jpg",
+      "info": "A ground-dwelling bird known for the prominent spiky crest on its head. It has a melodious song, often delivered in flight."
+    },
+    {
+      "id": 9,
+      "name": "Crimson Sunbird",
+      "scientificName": "Aethopyga siparaja",
+      "image": "/birds/crimson-sunbird.jpg",
+      "info": "A tiny, brilliantly colored bird. The male is deep crimson and yellow, feeding mainly on nectar with its curved bill."
+    },
+    {
+      "id": 10,
+      "name": "Egyptian Vulture",
+      "scientificName": "Neophron percnopterus",
+      "image": "/birds/egyptian-vulture.jpg",
+      "info": "A small Old World vulture, famous for its intelligence. It uses stones to break open eggs. Now an endangered species."
+    },
+    {
+      "id": 11,
+      "name": "Greater Coucal",
+      "scientificName": "Centropus sinensis",
+      "image": "/birds/greater-coucal.jpg",
+      "info": "A large, crow-like bird with glossy black plumage and chestnut wings. Often seen clambering in vegetation or on the ground."
+    },
+    {
+      "id": 12,
+      "name": "Indian Pond Heron",
+      "scientificName": "Ardeola grayii",
+      "image": "/birds/indian-pond-heron.jpg",
+      "info": "A common small heron, perfectly camouflaged until it takes flight, revealing stunningly white wings."
+    },
+    {
+      "id": 13,
+      "name": "Jungle Owlet",
+      "scientificName": "Glaucidium radiatum",
+      "image": "/birds/jungle-owlet.jpg",
+      "info": "A small and stocky owlet that is often active during the day. It has a heavily barred plumage and distinctive yellow eyes."
+    },
+    {
+      "id": 14,
+      "name": "Laggar Falcon",
+      "scientificName": "Falco jugger",
+      "image": "/birds/laggar-falcon.jpg",
+      "info": "A medium-sized falcon native to the Indian subcontinent, with a rufous crown and a distinctive dark moustachial stripe."
+    },
+    {
+      "id": 15,
+      "name": "Montagu's Harrier",
+      "scientificName": "Circus pygargus",
+      "image": "/birds/montagus-harrier.jpg",
+      "info": "A graceful bird of prey known for its slender build and buoyant, low flight over grasslands and marshes while hunting."
+    },
+    {
+      "id": 16,
+      "name": "Peregrine Falcon",
+      "scientificName": "Falco peregrinus",
+      "image": "/birds/peregrine-falcon.jpg",
+      "info": "Renowned for being the fastest animal on Earth, capable of reaching incredible speeds during its high-speed hunting dive."
+    },
+    {
+      "id": 17,
+      "name": "Purple Sunbird",
+      "scientificName": "Cinnyris asiaticus",
+      "image": "/birds/purple-sunbird.jpg",
+      "info": "A small sunbird. The breeding male is a glossy metallic purple-black, while the non-breeding male and female are olive-brown."
+    },
+    {
+      "id": 18,
+      "name": "Red-necked Falcon",
+      "scientificName": "Falco chicquera",
+      "image": "/birds/red-necked-falcon.jpg",
+      "info": "A striking falcon with a rich rufous head and nape. A powerful and fast hunter of small birds and bats."
+    },
+    {
+      "id": 19,
+      "name": "Stork-billed Kingfisher",
+      "scientificName": "Pelargopsis capensis",
+      "image": "/birds/stork-billed-kingfisher.jpg",
+      "info": "One of the largest kingfishers, with a massive red bill and a greenish back. Found near slow-moving rivers and lakes."
+    },
+    {
+      "id": 20,
+      "name": "Ultramarine Flycatcher",
+      "scientificName": "Ficedula superciliaris",
+      "image": "/birds/ultramarine-flycatcher.jpg",
+      "info": "A tiny, compact flycatcher. The male is deep blue above with a white 'eyebrow'. Winters in central India."
+    },
+    {
+      "id": 21,
+      "name": "White-cheeked Barbet",
+      "scientificName": "Psilopogon viridis",
+      "image": "/birds/white-cheeked-barbet.jpg",
+      "info": "A green barbet with a prominent white cheek stripe. Its monotonous 'kutroo-kutroo' call is a familiar sound in forests."
+    },
+    {
+      "id": 22,
+      "name": "White-rumped Vulture",
+      "scientificName": "Gyps bengalensis",
+      "image": "/birds/white-rumped-vulture.jpg",
+      "info": "A medium-sized vulture that was once abundant but is now critically endangered due to poisoning from diclofenac in livestock."
+    },
+    {
+      "id": 23,
+      "name": "Yellow-footed Green Pigeon",
+      "scientificName": "Treron phoenicopterus",
+      "image": "/birds/yellow-footed-green-pigeon.jpg",
+      "info": "The state bird of Maharashtra, known for its striking yellow legs and grey-green plumage that provides excellent camouflage."
+    }
+  ]
